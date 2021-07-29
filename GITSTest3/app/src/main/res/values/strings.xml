@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GITSTest3</string>
+    <string-array name="time">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
